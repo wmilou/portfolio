@@ -31,3 +31,7 @@ section .content {
     left:0;
     top:0;
 }
+
+#typed {
+    font-size: 40px;
+}
