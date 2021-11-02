@@ -13,21 +13,17 @@ Minha frase preferida no mundo Linux, „<span id="k">Talk is cheap. Show me the
                 </div>
 
                 <div>
-                    <p> Essas são algumas das ferramentas quais tenho intimidade. A utilização de ferramentas por minha parte, não sou apegado a nenhuma delas, pois são ferramentas, são bem usadas de acordo com o seu propósito e necessidade. E sempre na busca de novos conhecimentos</p>
-                </div>
+                    <p> Essas são algumas das ferramentas quais tenho intimidade. A utilização de ferramentas por minha parte, não sou apegado a nenhuma delas, pois são ferramentas, são bem usadas de acordo com o seu propósito e necessidade. E sempre na busca de novos conhecimentos
 
-                <div>
-                    <p> 
-                        Você pode visitar meus outros perfis, aqui:
-                            
-                        <ul>
-                            <li>LinkedIn</li>
-                            <li>GitHub.</li>
-                        </ul>
-                    </p>
-                    <p>Se desejar entrar em contato comigo, sinta-se à vontade para me enviar um e-mail para wedsley@milouchine.com.br 
+Você pode visitar meus outros perfis, aqui:
+            <ul> 
+                <li>LinkedIn</li> 
+                <li>GitHub.</li> 
+            </ul>
+            </p>
+            <p>Se desejar entrar em contato comigo, sinta-se à vontade para me enviar um e-mail para wedsley@milouchine.com.br 
 
                     Cheers!</p>
+                    <span id="a">wedsley@milouchine</span>:<span id="b">~</span><span id="c">$</span> exit
                 </div>
-                <span id="a">wedsley@milouchine</span>:<span id="b">~</span><span id="c">$</span> exit
             </div>  

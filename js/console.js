@@ -96,9 +96,8 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=3;
-Typer.file="wedsley.txt";
-Typer.init();
+
+
  
 var timer = setInterval("t();", 30);
 function t() {
@@ -109,4 +108,14 @@ function t() {
 	}
 }
  
+function initTerm(){
+    Typer.speed=3;
+    Typer.file="wedsley.txt";
+    Typer.init();
+    $('html, body').animate({
+        scrollTop: $("#console").offset().top - 100
+      }, 5000, function(){});
+}
+
+setTimeout("initTerm();", 3500);
 
