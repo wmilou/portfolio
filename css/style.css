@@ -36,6 +36,12 @@ section .content {
     font-size: 40px;
 }
 
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
 li {
     list-style: none;
 }
@@ -44,7 +50,6 @@ ul li {
     display: inline;
 }
 
-.languages ul li img{
-    width: 60px;
-    height: 60px;
+.content p{
+    font-size:15px;
 }

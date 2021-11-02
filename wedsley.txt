@@ -1,0 +1,33 @@
+<span id="a">wedsley@milouchine</span>:<span id="b">~</span><span id="c">$</span> cd Wedsley/<!-- kjsdfhkjdhsfkjdshfkj -->Sobre
+<span id="a">wedsley@milouchine</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->wedsley.txt<br/><br/>
+Minha frase preferida no mundo Linux, „<span id="k">Talk is cheap. Show me the code.</span>“ <!-- sjkfhskjf -->
+
+                <div>
+                    <p>Olá! Eu sou Wedsley Milouchine, estou cursando Engenharia da Computação. Sou apaixonado por tecnologia e tudo que tenha em vista o futuro e o crescimento. Amo programar a resolver problemas matematicos, gosto de tocar música. Trabalhei em areas como desenvolvimento de sites em php, e Apis com C#, como também Desenvolvimento android nativo. Gosto muito da facilidade Unix :)  </p>
+                </div>
+
+
+                <span>Principais técnologias</span>
+                <div class="languages">
+                        <img width="60px" src="./images/javascript.png"><img width="60px" src="./images/vim.png"><img width="60px" src="./images/csharp.png"><img width="60px" src="./images/python.png"><img width="60px" src="./images/mysql.png"><img width="60px" src="./images/firebase.png"><img width="60px" src="./images/git.png"><img width="60px" src="./images/php.png"><img width="60px" src="./images/typescript.png"><img width="60px" src="./images/java.png"><img width="60px" src="./images/docker.png"><img width="60px" src="./images/c.png">
+                </div>
+
+                <div>
+                    <p> Essas são algumas das ferramentas quais tenho intimidade. A utilização de ferramentas por minha parte, não sou apegado a nenhuma delas, pois são ferramentas, são bem usadas de acordo com o seu propósito e necessidade. E sempre na busca de novos conhecimentos</p>
+                </div>
+
+                <div>
+                    <p> 
+                        Você pode visitar meus outros perfis, aqui:
+                            
+                        <ul>
+                            <li>LinkedIn</li>
+                            <li>GitHub.</li>
+                        </ul>
+                    </p>
+                    <p>Se desejar entrar em contato comigo, sinta-se à vontade para me enviar um e-mail para wedsley@milouchine.com.br 
+
+                    Cheers!</p>
+                </div>
+                <span id="a">wedsley@milouchine</span>:<span id="b">~</span><span id="c">$</span> exit
+            </div>  
