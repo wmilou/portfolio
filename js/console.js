@@ -59,7 +59,7 @@ var Typer={
 			var rtn= new RegExp("\n", "g"); 
 	
 			$("#console").html(text.replace(rtn,"<br/>"));
-			//window.scrollBy(0,50); 
+			window.scrollBy(0,50); 
 		}
 		
 		if ( key.preventDefault && key.keyCode != 122 ) { 
@@ -101,21 +101,17 @@ function replaceUrls(text) {
  
 var timer = setInterval("t();", 30);
 function t() {
-	Typer.addText({"keyCode": 123748});
-	
-	if (Typer.index > Typer.text.length) {
-		clearInterval(timer);
-	}
+    Typer.addText({"keyCode": 123748});
+    
+    if (Typer.index > Typer.text.length) {
+            clearInterval(timer);
+    }
 }
  
 function initTerm(){
     Typer.speed=3;
     Typer.file="wedsley.txt";
     Typer.init();
-    $('html, body').animate({
-        scrollTop: $("#console").offset().top - 100
-      }, 5000, function(){});
 }
 
-setTimeout("initTerm();", 3500);
-
+initTerm();
