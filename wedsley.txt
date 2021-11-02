@@ -17,8 +17,8 @@ Minha frase preferida no mundo Linux, „<span id="k">Talk is cheap. Show me the
 
 Você pode visitar meus outros perfis, aqui:
             <ul> 
-                <li>LinkedIn</li> 
-                <li>GitHub.</li> 
+                <li><a href="https://github.com/wmilou/">GitHub</a>.</li> 
+                <li><a href="https://www.linkedin.com/in/wedsleyfernando-milouchine-a3a044198/">LinkedIn</a></li> 
             </ul>
             </p>
             <p>Se desejar entrar em contato comigo, sinta-se à vontade para me enviar um e-mail para wedsley@milouchine.com.br 
