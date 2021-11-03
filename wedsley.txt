@@ -1,3 +1,4 @@
+<br>
 <span id="a">wedsley@milouchine</span>:<span id="b">~</span><span id="c">$</span> cd Wedsley/<!-- kjsdfhkjdhsfkjdshfkj -->Sobre
 <span id="a">wedsley@milouchine</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->wedsley.txt<br/><br/>
 Minha frase preferida no mundo Linux, „<span id="k">Talk is cheap. Show me the code.</span>“ <!-- sjkfhskjf -->

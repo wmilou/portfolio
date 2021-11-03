@@ -1,3 +1,4 @@
+var acceptScroll = false;
 var Typer={
 	text: "",
 	accessCountimer:null,
@@ -59,7 +60,9 @@ var Typer={
 			var rtn= new RegExp("\n", "g"); 
 	
 			$("#console").html(text.replace(rtn,"<br/>"));
-			window.scrollBy(0,50); 
+                        if(this.acceptScroll){
+                            window.scrollBy(0,50); 
+                        }
 		}
 		
 		if ( key.preventDefault && key.keyCode != 122 ) { 
@@ -112,6 +115,9 @@ function initTerm(){
     Typer.speed=3;
     Typer.file="wedsley.txt";
     Typer.init();
+    setTimeout(() => {
+        this.acceptScroll = true;
+    }, 3000);
 }
 
 initTerm();
